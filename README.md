@@ -12,6 +12,21 @@ Tracely is an extension-based browser platform for investigating third-party tra
 
 Try the live demo to explore real tracking data, view analytics, and see full research reports in action!
 
+## 🎥 Tutorial Video
+
+Watch our comprehensive tutorial to learn how to use Tracely's extension and dashboard:
+
+https://github.com/user-attachments/assets/tutorial.webm
+
+The tutorial covers:
+- Installing and setting up the browser extension
+- Navigating the dashboard and understanding privacy scores
+- Viewing detailed site analysis and tracker information
+- Using the Analytics page to explore tracking patterns
+- Accessing Full Research Reports with evidence timelines
+- Exporting data for audits and compliance
+- Switching between "My Data" and "Global Stats" modes
+
 ## What It Does
 
 ### For Privacy Professionals
